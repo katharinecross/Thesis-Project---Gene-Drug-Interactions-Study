@@ -1,0 +1,11 @@
+# Thesis-Project---Gene-Drug-Interactions-Study
+
+This Repository Includes all Code used for My Honors Thesis Project Titled 
+The Project was Completed in November of 2023.
+
+Read the Abstract of My Thesis Paper to Get a Better Understanding of the Project: "Identification of Significant Gene Expression Changes Incorporating Heterogeneity in Perturbation Experiments"
+
+
+Abstract:
+
+Machine learning methods have been widely applied to the field of genomics and bioinformatics. Specifically utilizing novel machine learning algorithms to study gene-drug interactions has the potential to make a major positive impact on new drug discovery. It is possible that heterogeneity may exist within Vorinostat drug perturbation experiments due to the effects of the perturbations on the gene expressions. Thus, the challenge is to identify the most important genes in a high-dimensional setting while first identifying subpopulations to address population heterogeneity. In this work, clustering techniques are applied to first identify group sub-population structures in the gene expression changes across multiple Vorinostat perturbations. Next, statistical knockoffs are applied to identify important gene expression changes within each subpopulation with the theoretically guaranteed false discovery rate. Gaussian Mixture knockoff generation is used to construct negative controls and identify important genes across these subpopulations within the Vorinostat family and make comparisons. This research has the potential to aid future novel drug discoveries, along with enhancing the potential of drug repurposing within the field of Pharmacoeconomics. Identification of such gene-drug interactions can facilitate a better understanding of the mechanism of the disease and identify new drug targets. The results support the theory of heterogeneity, as two distinct clusters were discovered. Cluster zero appears to include a majority of genes that had positive coefficients after interacting with the Vorinostat perturbations, resulting in up-regulation in the expression of those genes.  Cluster one consisted largely of genes that had negative coefficients after interacting with the Vorinostat treatment, indicating down-regulation in the expression of those genes.
