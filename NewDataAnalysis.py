@@ -1,25 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 10 13:45:15 2021
 
-@author: tingtingzhao
 """
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep  8 16:17:08 2021
-
-@author: tingtingzhao
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 14 10:04:57 2021
-
-@author: tingtingzhao
 """
 
 import os
